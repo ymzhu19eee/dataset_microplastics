@@ -7,4 +7,4 @@ Labelled by type: The types of microplastic particles are shown in their corresp
 
 Labelled by number: The number of microplastic particles in the image is the same as the first number of the file name of the image.
 
-The author has title to this database. Any citation to this database needs to indicate the source of the reference.
+Any citation to this database needs to indicate the source of the reference.
