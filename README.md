@@ -1,5 +1,5 @@
 # dataset_microplastics
-This is a dataset of microplastic particles. This dataset is used as the training, validation and test set of the research of “Holographic Classifier: Deep Learning in Digital Holography forAutomatic Micro-objects Classification”, Accepted to “Special Session on Digital Holography for Industrial Applications” in the *18th IEEE International Conference on Industrial Informatics (INDIN 2020)*
+This is a dataset of microplastic particles. This dataset is used as the training, validation and test set of the research of “Holographic Classifier: Deep Learning in Digital Holography for Automatic Micro-objects Classification”, Accepted to “Special Session on Digital Holography for Industrial Applications” in the *18th IEEE International Conference on Industrial Informatics (INDIN 2020)*
 
 Optical System: The dataset is caught by digital inline holography system. 
 
